@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Regression_test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>defca8c6-b953-4b24-b662-45ec7648d4d8</testSuiteGuid>
+   <testCaseLink>
+      <guid>29a13cf0-1219-4f79-bb7d-f14eb98d7d11</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Regression_Testing/Daily_order_ShopBy_category</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>450c80d9-c075-44fa-a3bc-949b9789c70a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Regression_Testing/Login_test</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>41966bad-5e05-4890-9ee2-84d5354975d7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>130f7cf9-d8c1-4e70-bb1b-1762b1f2281e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>64e988ae-6ce9-47e7-91f5-8c97b64bc878</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

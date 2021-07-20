@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c81c437d-4b15-464a-b758-2e9b8cb85f43</testCaseGuid>
+   <variable>
+      <defaultValue>'\r\nhttps://test.commercialtireezgarage.com/'</defaultValue>
+      <description></description>
+      <id>41966bad-5e05-4890-9ee2-84d5354975d7</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'bkirkland@commercialtire.com'</defaultValue>
+      <description></description>
+      <id>130f7cf9-d8c1-4e70-bb1b-1762b1f2281e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'541-889-6714'</defaultValue>
+      <description></description>
+      <id>64e988ae-6ce9-47e7-91f5-8c97b64bc878</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
